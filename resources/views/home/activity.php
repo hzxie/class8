@@ -393,7 +393,7 @@
         initDateTimePicker();
     });
 </script>
-<script type="text/javascript" src="http://webapi.amap.com/maps?v=1.3&key=c8217ee6277393d58ee271ca70288e66&callback=initializeMap"></script>
+<script type="text/javascript" src="//webapi.amap.com/maps?v=1.3&key=c8217ee6277393d58ee271ca70288e66&callback=initializeMap"></script>
 <script type="text/javascript">
     var mapObject   = null,
         markers     = new Array(),
@@ -423,7 +423,7 @@
         var latY = d.location.getLat();
         var markerOption = {
             map: mapObject,
-            icon: "http://webapi.amap.com/images/" + (i + 1) + ".png",
+            icon: "//webapi.amap.com/images/" + (i + 1) + ".png",
             position: new AMap.LngLat(lngX, latY),
             topWhenClick: true
         };
