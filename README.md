@@ -17,7 +17,9 @@ It is based on [Laravel](http://laravel.com) framework, which is the one of the 
 
 Screenshots
 -------------
-![Screenshot-01](http://zjhzxhz.com/wordpress/wp-content/uploads/system-reserved/projects/The-Home-of-Class8/The-Home-of-Class8-01.jpg)
+![Screenshot-01](https://zjhzxhz.com/wordpress/wp-content/uploads/projects/The-Home-of-Class8/The-Home-of-Class8-01.jpg)
+
+![Screenshot-02](https://zjhzxhz.com/wordpress/wp-content/uploads/projects/The-Home-of-Class8/The-Home-of-Class8-02.jpg)
 
 License
 -------------
