@@ -9,7 +9,7 @@ php:
 
 before_script:
   - composer self-update
-  - composer install
+  - composer update --no-scripts 
   - mysql -e 'CREATE DATABASE class8;'
 
 # script: vendor/bin/phpunit --verbose
