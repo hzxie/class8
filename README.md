@@ -1,11 +1,7 @@
 The Home of Class 8
 ===================
 
-[![Build Status](https://travis-ci.org/zjhzxhz/class8.png?branch=master)](https://travis-ci.org/zjhzxhz/class8)
-
-[The Home of Class 8](http://class8.zjhzxhz.com) | 
-[Technical Support](http://www.zjhzxhz.com) |
-[Documentation](http://zjhzxhz.github.io/class8)
+[![Build Status](https://travis-ci.org/hzxie/class8.png?branch=master)](https://travis-ci.org/hzxie/class8)
 
 ----------
 
@@ -17,9 +13,9 @@ It is based on [Laravel](http://laravel.com) framework, which is the one of the 
 
 Screenshots
 -------------
-![Screenshot-01](https://zjhzxhz.com/wordpress/wp-content/uploads/projects/The-Home-of-Class8/The-Home-of-Class8-01.jpg)
+![Screenshot-01](http://haozhexie.com/wordpress/wp-content/uploads/projects/The-Home-of-Class8/The-Home-of-Class8-01.jpg)
 
-![Screenshot-02](https://zjhzxhz.com/wordpress/wp-content/uploads/projects/The-Home-of-Class8/The-Home-of-Class8-02.jpg)
+![Screenshot-02](http://haozhexie.com/wordpress/wp-content/uploads/projects/The-Home-of-Class8/The-Home-of-Class8-02.jpg)
 
 License
 -------------
