@@ -197,7 +197,6 @@ return [
     'cdn' => array(
 
         // 'default'           => 'class8.b0.upaiyun.com',
-        // 'default'           => 'class8.zjhzxhz.com',
         'default'           => 'localhost/class8/public',
 
     ),

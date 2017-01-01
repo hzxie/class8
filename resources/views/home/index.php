@@ -113,11 +113,11 @@
             </a>
             <div id="footer">
                 <ul class="inline">
-                    <li><a href="mailto:zjhzxhz@gmail.com">反馈</a></li>
-                    <li><a href="http://zjhzxhz.github.io/class8" target="_blank">帮助</a></li>
-                    <li><a href="http://zjhzxhz.com/about" target="_blank">关于</a></li>
+                    <li><a href="mailto:cshzxie@gmail.com">反馈</a></li>
+                    <li><a href="https://github.com/hzxie/class8/issues" target="_blank">帮助</a></li>
+                    <li><a href="https://infinitescript.com/about" target="_blank">关于</a></li>
                 </ul>
-                <div id="copyright">&copy; <?php echo date('Y'); ?> <a href="http://zjhzxhz.com" target="_blank">Infinite Script</a></div> <!-- #copyright -->
+                <div id="copyright">&copy; <?php echo date('Y'); ?> <a href="https://infinitescript.com" target="_blank">Infinite Script</a></div> <!-- #copyright -->
             </div> <!-- #footer -->
         </div> <!-- #navigation-sidebar -->
         <div id="notify-widget-panel" class="hide">

@@ -332,7 +332,7 @@ class HomeController extends BaseController {
             'sponsor'       => $sponsor,
         );
         Mail::queue('mails.activity', $data, function($message) use ($activityName, $email) {
-            $message->from('noreply@zjhzxhz.com', 'The Home of Class8')->subject('诚邀您参加'.$activityName);
+            $message->from('noreply@testzilla.org', 'The Home of Class8')->subject('诚邀您参加'.$activityName);
             $message->to($email);
         });
     }
