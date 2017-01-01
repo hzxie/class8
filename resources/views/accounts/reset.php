@@ -89,13 +89,13 @@
     </div>
     <div id="footer" class="row-fluid container">
         <div class="span8">
-            <p>Copyright&copy; 2005-<?php echo date('Y'); ?> <a href="http://www.zjhzxhz.com" target="_blank">Infinite Script</a>. All rights reserved.</p>
+            <p>Copyright&copy; 2005-<?php echo date('Y'); ?> <a href="https://infinitescript.com" target="_blank">Infinite Script</a>. All rights reserved.</p>
         </div> <!-- .span8 -->
         <div class="span4">
             <ul class="inline">
                 <li><a href="http://zjhzxhz.github.io/class8" target="_blank">帮助中心</a></li>
                 <li>|</li>
-                <li><a href="http://www.zjhzxhz.com/about" target="_blank">关于我们</a></li>
+                <li><a href="https://infinitescript.com/about" target="_blank">关于我们</a></li>
             </ul>
         </div> <!-- .span4 -->
     </div> <!-- #footer -->
