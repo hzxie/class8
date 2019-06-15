@@ -9,7 +9,7 @@
 							<tr>
 								<td style="padding:15px 15px 0 15px;background:#fff;border-radius:4px 4px 0 0">
 									<div>
-										<img src="https://lab.testzilla.org/Class8/img/logo-dark.png" alt="The Home of Class8" height="48" width="240">
+										<img src="https://class8.infinitescript.com/img/logo-dark.png" alt="The Home of Class8" height="48" width="240">
 									</div>
 								</td>
 							</tr>
@@ -19,7 +19,7 @@
 									我们收到了重设 The Home of Class8 账户密码的请求.<br><br>
 									如果您未发出请求, 请不要担心, 只需忽略此电子邮件, 任何内容均不会更改.<br><br>
 									如果确实是您请求重设 The Home of Class8 账户密码，点击以下链接即可：<br>
-									<a href="https://lab.testzilla.org/Class8/accounts/resetPassword?email={{$email}}&keycode={{$keycode}}" target="_blank"style="color: #005399;text-decoration: none;">https://lab.testzilla.org/Class8/accounts/resetPassword?email={{$email}}&keycode={{$keycode}}</a><br><br>
+									<a href="https://class8.infinitescript.com/accounts/resetPassword?email={{$email}}&keycode={{$keycode}}" target="_blank"style="color: #005399;text-decoration: none;">https://class8.infinitescript.com/accounts/resetPassword?email={{$email}}&keycode={{$keycode}}</a><br><br>
 									此致, <br>
 									谢浩哲.<br><br>
 									<div style="border-top:3px solid #eee;color:#999;font-size:11px;line-height:1.2">
