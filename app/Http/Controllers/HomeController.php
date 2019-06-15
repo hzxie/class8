@@ -19,7 +19,7 @@ use App\Models\User;
 
 /**
  *
- * @author 谢浩哲 <zjhzxhz@gmail.com>
+ * @author 谢浩哲 <cshzxie@gmail.com>
  */
 class HomeController extends BaseController {
     /**
@@ -332,7 +332,7 @@ class HomeController extends BaseController {
             'sponsor'       => $sponsor,
         );
         Mail::queue('mails.activity', $data, function($message) use ($activityName, $email) {
-            $message->from('noreply@testzilla.org', 'The Home of Class8')->subject('诚邀您参加'.$activityName);
+            $message->from('noreply@infinitescript.com', 'The Home of Class8')->subject('诚邀您参加'.$activityName);
             $message->to($email);
         });
     }

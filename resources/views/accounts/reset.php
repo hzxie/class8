@@ -51,7 +51,6 @@
                             </p>
                             <input type="hidden" id="csrf-token" value="<?php echo csrf_token(); ?>">
                             <button type="submit" class="btn btn-primary">重置密码</button>
-                            <p class="tip">忘记了所使用的电子邮件地址, 请与<a href="mailto:zjhzxhz@gmail.com">网站管理员</a>联系.</p>
                         </form> <!-- #reset-form -->
                         <div id="email-sent" class="hide">
                             <h2>电子邮件已发出</h2>
@@ -93,9 +92,9 @@
         </div> <!-- .span8 -->
         <div class="span4">
             <ul class="inline">
-                <li><a href="http://zjhzxhz.github.io/class8" target="_blank">帮助中心</a></li>
+                <li><a href="https://infinitescript.com/project/the-home-of-class8/" target="_blank">帮助中心</a></li>
                 <li>|</li>
-                <li><a href="https://infinitescript.com/about" target="_blank">关于我们</a></li>
+                <li><a href="https://infinitescript.com/about/" target="_blank">关于我们</a></li>
             </ul>
         </div> <!-- .span4 -->
     </div> <!-- #footer -->

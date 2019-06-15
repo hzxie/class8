@@ -15,7 +15,7 @@ use App\Models\User;
 
 /**
  * 用户账户类, 用于处理账户相关的请求.
- * @author 谢浩哲 <zjhzxhz@gmail.com>
+ * @author 谢浩哲 <cshzxie@gmail.com>
  */
 class AccountsController extends BaseController {
     /**
@@ -125,7 +125,7 @@ class AccountsController extends BaseController {
             'keycode'   => $keycode,
         );
         Mail::send('mails.reset', $data, function($message) use ($email) {
-            $message->from('noreply@testzilla.org', 'The Home of Class8')->subject('Reset Your Password');
+            $message->from('noreply@infinitescript.com', 'The Home of Class8')->subject('Reset Your Password');
             $message->to($email);
         });
     }
